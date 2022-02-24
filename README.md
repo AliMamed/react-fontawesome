@@ -1,6 +1,4 @@
-<a href="https://fontawesome.com">
-  <img align="right" width="100" height="100" alt="Official Javascript Component" src="https://img.fortawesome.com/349cfdf6/official-javascript-component.svg">
-</a>
+**This is a temporary fork to fix v6 related issues**
 
 # react-fontawesome
 
